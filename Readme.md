@@ -146,6 +146,6 @@ by Jakob Gepp was helpful for formulating `strsplit()` splits that keep
 the search terms.
 
 ## How To : 
-Here's the link of a how to video on installation, usage and contribution : [link](...)
+Here's the link of a how to video on installation, usage and contribution : [link](https://youtu.be/4xwWypdovzg)
 
 
